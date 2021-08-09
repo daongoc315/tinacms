@@ -34,6 +34,13 @@ export const gql = async ({
 }) => {
   const database = await createDatabase({
     rootPath,
+    bridge: new GithubBridge({
+      rootPath: '',
+      accessToken: '<your-token>',
+      owner: 'jeffsee55',
+      ref: 'test-missing',
+      repo: 'tina-cloud-starter',
+    }),
   })
 
   return resolve({
