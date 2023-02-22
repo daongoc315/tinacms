@@ -1,5 +1,13 @@
 # tina-graphql
 
+## 1.3.2
+
+### Patch Changes
+
+- aa0250979: Fix issue where shortcode closing tags were backwards
+- Updated dependencies [aa0250979]
+  - @tinacms/mdx@1.3.1
+
 ## 1.3.1
 
 ### Patch Changes
