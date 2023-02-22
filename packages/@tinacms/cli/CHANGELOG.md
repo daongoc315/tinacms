@@ -1,5 +1,14 @@
 # tinacms-cli
 
+## 1.2.2
+
+### Patch Changes
+
+- Updated dependencies [aa0250979]
+  - @tinacms/graphql@1.3.2
+  - @tinacms/app@1.1.0
+  - @tinacms/datalayer@1.1.3
+
 ## 1.2.1
 
 ### Patch Changes
