@@ -1,5 +1,11 @@
 # @tinacms/mdx
 
+## 1.3.1
+
+### Patch Changes
+
+- aa0250979: Fix issue where shortcode closing tags were backwards
+
 ## 1.3.0
 
 ### Minor Changes

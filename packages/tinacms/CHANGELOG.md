@@ -1,5 +1,18 @@
 # tinacms
 
+## 1.2.2
+
+### Patch Changes
+
+- 0e6093a8d: Fixes branch switcher accessed from the branch banner, adds indexing status to branch list, improves UI clarity.
+- 9d38f4b78: Only redirect to preview if the user is using a router.
+
+  See [this video](https://www.loom.com/share/69345c21c3f94c57997ac0a19c9768a8) for more details.
+
+- b984f1a7c: Fixes the error when a user clears the date filter input
+- Updated dependencies [0e6093a8d]
+  - @tinacms/toolkit@1.3.4
+
 ## 1.2.1
 
 ### Patch Changes
